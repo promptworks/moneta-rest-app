@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    foreman (0.84.0)
+      thor (~> 0.19.1)
+    moneta (1.0.0)
+    rack (1.6.5)
+    thor (0.19.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  foreman
+  moneta
+  rack
+
+RUBY VERSION
+   ruby 2.4.1p111
+
+BUNDLED WITH
+   1.14.6
